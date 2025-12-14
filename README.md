@@ -194,23 +194,13 @@ El modelo SR 7×7 utiliza una arquitectura más profunda (64→128→256 canales
 - **Multi-task learning**: Super-resolución + denoising simultáneo
 - **Transfer learning concepts**: Misma arquitectura, diferentes tareas
 - **Patrones de diseño**: Factory, Strategy, Service Layer
-
 ---
 
-## 📚 Referencias
+## 👤 Autores
 
-- Dataset: [MNIST - Yann LeCun](http://yann.lecun.com/exdb/mnist/)
-- Framework: [PyTorch](https://pytorch.org/)
-- Autoencoders: [Deep Learning Book - Ian Goodfellow](https://www.deeplearningbook.org/)
-
----
-
-## 👤 Autor
-
-**Tu Nombre**  
-Universidad / Curso  
-Práctica 2 - Redes Neuronales y Deep Learning
-
+**Alejandro de León**  
+**Javier Bolívar**  
+ULPGC/ 25-26
 ---
 
 ## 📄 Licencia
@@ -219,20 +209,3 @@ Este proyecto es material educativo para la asignatura de Deep Learning.
 
 ---
 
-## 🙏 Agradecimientos
-
-- Profesores y equipo docente del curso
-- Comunidad de PyTorch por la documentación
-- Dataset MNIST por ser el benchmark estándar
-
----
-
-## 📞 Contacto
-
-Para dudas o sugerencias:
-- Email: tu.email@universidad.edu
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-
----
-
-**⭐ Si este proyecto te fue útil, no olvides darle una estrella!**
